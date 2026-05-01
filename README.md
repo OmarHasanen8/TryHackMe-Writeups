@@ -20,7 +20,7 @@ Cybersecurity Enthusiast | TryHackMe Player
 |---|---------|------------|------------|--------|
 | 1 | [Pickle Rick](./Pickle%20Rick.md) | 🟢 Easy | Web enumeration, command injection | ✅ Complete |
 | 2 | [RootMe](./RootMe.md) | 🟢 Easy | File upload bypass, SUID escalation | ✅ Complete |
-| 3 | [Mr. Robot](./Mr-Robot.md) | 🟡 Medium | WordPress exploitation, Hydra, GTFOBins | ✅ Complete |
+| 3 | [Mr. Robot](./Mr-Robot%20.md) | 🟡 Medium | WordPress exploitation, Hydra, GTFOBins | ✅ Complete |
  
 ---
  
